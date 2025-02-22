@@ -30,6 +30,23 @@ We'll break down the paper's arguments, explain the key concepts in simple terms
 
 ---
 
+- [Black Holes DON'T Have Singularities? This Paper CHANGES EVERYTHING!](#black-holes-dont-have-singularities-this-paper-changes-everything)
+  - [Concluding Thoughts on Black Holes](#concluding-thoughts-on-black-holes)
+  - [Exploring the Existence of Singularities within Black Holes](#exploring-the-existence-of-singularities-within-black-holes)
+  - [Quantum Gravity, Alternatives to Singularities, and Observational Evidence](#quantum-gravity-alternatives-to-singularities-and-observational-evidence)
+  - [Classifications, Properties, and Interactions of Black Holes](#classifications-properties-and-interactions-of-black-holes)
+  - [Unsolved Mysteries and the Evolution of Black Hole Research](#unsolved-mysteries-and-the-evolution-of-black-hole-research)
+  - [Here are some questions that could be asked in a podcast discussing whether black holes have singularities:](#here-are-some-questions-that-could-be-asked-in-a-podcast-discussing-whether-black-holes-have-singularities)
+  - [Rebuttal Argument Against Kerr's Challenge to Singularity Theorems](#rebuttal-argument-against-kerrs-challenge-to-singularity-theorems)
+  - [Justification of Research Challenging Singularity Theorems](#justification-of-research-challenging-singularity-theorems)
+  - [What People Find Compelling About Black Holes and Singularities](#what-people-find-compelling-about-black-holes-and-singularities)
+  - [Perceived Advantages and Disadvantages of Challenging Singularity Theorems](#perceived-advantages-and-disadvantages-of-challenging-singularity-theorems)
+  - [Key Players in Black Hole and Singularity Research](#key-players-in-black-hole-and-singularity-research)
+  - [Understanding Black Holes and Singularities](#understanding-black-holes-and-singularities)
+
+
+---
+
 ## Concluding Thoughts on Black Holes
 
 Based on the sources and our conversation history, the study of black holes stands as a testament to humanity's relentless pursuit of understanding the universe's most extreme and enigmatic phenomena. Black holes have transitioned from theoretical constructs to well-established astrophysical realities, captivating the imagination of scientists and the public alike. However, as our understanding of black holes has grown, so too have the mysteries surrounding them.
